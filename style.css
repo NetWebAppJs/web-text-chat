@@ -1,0 +1,25 @@
+section{
+  width:80%;
+  margin:20px auto;
+}
+h1{
+  background-image: url('https://conteudo.imguol.com.br/c/bp/images/logo-v2.png');
+  text-indent: -2000px;
+  overflow:hidden;
+  background-repeat: no-repeat;
+  display:inline-block;
+  width:120px;
+  height:85px;
+}
+#chat{
+  width:100%;
+}
+#msgs{
+  border:1px solid #000;
+  height:300px;
+  overflow:scroll;
+  margin-bottom: 20px;
+}
+button{
+
+}
